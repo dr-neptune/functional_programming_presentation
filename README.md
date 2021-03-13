@@ -4,3 +4,4 @@ This is a short presentation that I gave at work about functional programming co
 
 The presentation was given dynamically using org mode, and then the fpr.pdf version was sent out afterwards.
 
+The Org file pretty prints the code in github, but does not show the images. The pdf file shows the images (which are taken from xkcd comments)
